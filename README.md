@@ -5,7 +5,7 @@ App make by every developer who started learning Web development
 
 ## Installation
 
-Download to repo and go to directory
+Download the repo and go to repo directory then use 
 
 ```bash
   docker build .
